@@ -60,4 +60,4 @@ function multiplying2Number(num1, num2){
   return result;
 }
 let product = multiplying2Number(21, 23);
-console.log(`the resutl of the multiplication of two number is ${multi}`)
+console.log(`the resutl of the multiplication of two number is ${product}`)
